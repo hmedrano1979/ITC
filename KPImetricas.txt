@@ -1,0 +1,6 @@
+Total de ventas
+Total del costo
+Utilidad
+Comportamiento de las ventas y cantidad por año y mes
+Venta por marca
+Productos mas vendidos
