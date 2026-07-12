@@ -1,0 +1,61 @@
+{
+  "name": "Cumbre Sport & Outdoor",
+  "dataColors": [
+    "#1F4E79",
+    "#ED7D31",
+    "#5B9BD5",
+    "#8FAADC",
+    "#F4B183",
+    "#2E75B6",
+    "#C55A11",
+    "#A9C4E0"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F2A33",
+  "tableAccent": "#1F4E79",
+  "good": "#2E7D32",
+  "neutral": "#ED7D31",
+  "bad": "#C0392B",
+  "maximum": "#1F4E79",
+  "center": "#ED7D31",
+  "minimum": "#F4B183",
+  "null": "#BFBFBF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#1F2A33" } },
+            "background": { "solid": { "color": "#FFFFFF" } },
+            "alignment": "left",
+            "fontSize": 14,
+            "bold": true
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#1F4E79" } },
+            "fontSize": 28,
+            "bold": true
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#5A5A5A" } },
+            "fontSize": 12
+          }
+        ]
+      }
+    }
+  }
+}
