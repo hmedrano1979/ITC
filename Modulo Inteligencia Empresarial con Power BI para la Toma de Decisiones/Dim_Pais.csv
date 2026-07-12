@@ -1,9 +1,0 @@
-﻿PAIS,TIPO_OPERACION,MONEDA_LOCAL_REFERENCIA,REGION,POBLACION_APROX,PIB_PERCAPITA_USD_APROX,ZONA_HORARIA
-Colombia,Operacion regional,COP,Region Andina,52000000,6700,UTC-5
-Ecuador,Sede principal,USD,Region Andina,18000000,6200,UTC-5
-Guatemala,Operacion regional,GTQ,Centroamerica,18000000,5200,UTC-6
-Honduras,Operacion regional,HNL,Centroamerica,10000000,2800,UTC-6
-Mexico,Operacion regional,MXN,Norteamerica,128000000,11500,UTC-6
-Nicaragua,Operacion regional,NIO,Centroamerica,6900000,2100,UTC-6
-Panama,Operacion regional,USD,Centroamerica,4400000,15000,UTC-5
-Peru,Operacion regional,PEN,Region Andina,34000000,7100,UTC-5
