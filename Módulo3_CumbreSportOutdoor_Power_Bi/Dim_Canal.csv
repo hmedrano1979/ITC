@@ -1,0 +1,5 @@
+﻿CANAL,TIPO,COSTO_OPERATIVO_PORCENTAJE_VENTA,NOTA,ANIO_LANZAMIENTO,HORARIO_ATENCION,PLATAFORMA_TECNOLOGICA
+Punto de Venta,Fisico,0.18,Arriendo y personal de tienda,2005,8:00am-6:00pm hora local,POS propio en tienda
+Telefono,Remoto asistido,0.12,Operacion de call center,2012,8:00am-8:00pm hora local,Call center tercerizado
+Redes Sociales,Digital,0.08,Pauta y moderacion de contenido,2021,24/7 (respuesta en horario laboral),Meta Business Suite
+App,Digital,0.06,El canal mas eficiente en costo,2021,24/7,App nativa iOS/Android
