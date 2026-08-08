@@ -1,0 +1,34 @@
+{
+  "name": "Confecciones Andina",
+  "dataColors": [
+    "#1B3A5C",
+    "#C1592C",
+    "#5A7FA6",
+    "#E0975E",
+    "#8FA9BF",
+    "#F0C9A0",
+    "#33587D",
+    "#A63D14"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1B3A5C",
+  "tableAccent": "#C1592C",
+  "good": "#3E7C4A",
+  "neutral": "#C1592C",
+  "bad": "#B5312B",
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "color": "#1B3A5C"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1B3A5C"
+    },
+    "label": {
+      "fontSize": 11,
+      "color": "#333333"
+    }
+  }
+}
