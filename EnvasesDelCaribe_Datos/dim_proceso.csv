@@ -1,0 +1,5 @@
+proceso_id;proceso;area;nivel_riesgo
+PR1;Corte;Preparacion;Medio
+PR2;Ensamble;Produccion;Bajo
+PR3;Empaque;Produccion;Bajo
+PR4;Despacho;Logistica;Medio

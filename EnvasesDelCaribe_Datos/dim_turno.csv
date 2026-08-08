@@ -1,0 +1,4 @@
+turno_id;turno;horario_inicio;horario_fin
+T1;Manana;06:00;14:00
+T2;Tarde;14:00;22:00
+T3;Noche;22:00;06:00

@@ -1,0 +1,10 @@
+causa_id;descripcion;categoria
+C01;Falla mecanica de maquina;Mecanica
+C02;Falla electrica / corte de energia;Electrica
+C03;Cambio de referencia / formato;Logistica
+C04;Falta de materia prima;Logistica
+C05;Reproceso por defecto de calidad;Calidad
+C06;Mantenimiento preventivo programado;Mecanica
+C07;Ausentismo de personal;Logistica
+C08;Ajuste de calibracion;Calidad
+C09;Sin novedad (parada normal de turno);Logistica

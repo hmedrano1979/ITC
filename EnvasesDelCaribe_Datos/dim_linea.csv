@@ -1,0 +1,13 @@
+linea_id;linea;planta_id;tipo_maquina;anio_instalacion
+P01-L1;Linea_1;P01;Inyectora;2014
+P01-L2;Linea_2;P01;Sopladora;2014
+P01-L3;Linea_3;P01;Ensambladora;2015
+P01-L4;Linea_4;P01;Empacadora;2015
+P02-L1;Linea_1;P02;Inyectora;2016
+P02-L2;Linea_2;P02;Sopladora;2016
+P02-L3;Linea_3;P02;Ensambladora;2017
+P02-L4;Linea_4;P02;Empacadora;2017
+P03-L1;Linea_1;P03;Inyectora;2019
+P03-L2;Linea_2;P03;Sopladora;2019
+P03-L3;Linea_3;P03;Ensambladora;2020
+P03-L4;Linea_4;P03;Empacadora;2020
