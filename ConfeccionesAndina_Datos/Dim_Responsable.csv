@@ -1,25 +1,25 @@
-Responsable_ID,Nombre,Cargo,Departamento,Fecha_Ingreso
-R01,Miguel Angel Perez,Jefe de Producción,Comercial,2007-09-03
-R02,Yesid Contreras,Jefe de Compras,Calidad,2016-06-24
-R03,Carlos Perez,Analista de Calidad,Comercial,2024-10-30
-R04,Laura Martinez,Auditor Interno,Logística,2018-12-10
-R05,Andrea Gomez,Auditor Interno,Comercial,2022-07-28
-R06,Jorge Ramirez,Jefe de Compras,Logística,2023-11-23
-R07,Diana Torres,Auditor Interno,Logística,2021-11-05
-R08,Felipe Castro,Coordinador de Calidad,Comercial,2010-05-20
-R09,Camila Rodriguez,Coordinador de Calidad,Abastecimiento,2006-10-24
-R10,Sergio Herrera,Coordinador de Calidad,Logística,2023-04-27
-R11,Valentina Diaz,Jefe de Compras,Logística,2005-04-05
-R12,Ricardo Nunez,Jefe de Producción,Producción,2020-03-28
-R13,Paola Jimenez,Jefe de Producción,Abastecimiento,2013-11-29
-R14,Andres Villalba,Supervisor de Planta,Comercial,2012-12-31
-R15,Natalia Cortes,Coordinador de Calidad,Abastecimiento,2019-04-22
-R16,Julian Beltran,Auditor Interno,Comercial,2007-01-05
-R17,Sandra Ospina,Jefe de Producción,Logística,2011-07-22
-R18,Mauricio Salcedo,Jefe de Compras,Comercial,2008-02-29
-R19,Liliana Duran,Coordinador de Calidad,Abastecimiento,2011-12-07
-R20,Esteban Rojas,Supervisor de Planta,Logística,2013-02-26
-R21,Marcela Peñaloza,Supervisor de Planta,Comercial,2007-01-13
-R22,Camilo Barrios,Supervisor de Planta,Calidad,2017-06-09
-R23,Ana Maria Villareal,Auditor Interno,Comercial,2014-07-18
-R24,Oscar Mendoza,Supervisor de Planta,Logística,2024-08-20
+Responsable_ID;Nombre;Cargo;Departamento;Fecha_Ingreso
+R01;Miguel Angel Perez;Jefe de Producción;Comercial;2007-09-03
+R02;Yesid Contreras;Jefe de Compras;Calidad;2016-06-24
+R03;Carlos Perez;Analista de Calidad;Comercial;2024-10-30
+R04;Laura Martinez;Auditor Interno;Logística;2018-12-10
+R05;Andrea Gomez;Auditor Interno;Comercial;2022-07-28
+R06;Jorge Ramirez;Jefe de Compras;Logística;2023-11-23
+R07;Diana Torres;Auditor Interno;Logística;2021-11-05
+R08;Felipe Castro;Coordinador de Calidad;Comercial;2010-05-20
+R09;Camila Rodriguez;Coordinador de Calidad;Abastecimiento;2006-10-24
+R10;Sergio Herrera;Coordinador de Calidad;Logística;2023-04-27
+R11;Valentina Diaz;Jefe de Compras;Logística;2005-04-05
+R12;Ricardo Nunez;Jefe de Producción;Producción;2020-03-28
+R13;Paola Jimenez;Jefe de Producción;Abastecimiento;2013-11-29
+R14;Andres Villalba;Supervisor de Planta;Comercial;2012-12-31
+R15;Natalia Cortes;Coordinador de Calidad;Abastecimiento;2019-04-22
+R16;Julian Beltran;Auditor Interno;Comercial;2007-01-05
+R17;Sandra Ospina;Jefe de Producción;Logística;2011-07-22
+R18;Mauricio Salcedo;Jefe de Compras;Comercial;2008-02-29
+R19;Liliana Duran;Coordinador de Calidad;Abastecimiento;2011-12-07
+R20;Esteban Rojas;Supervisor de Planta;Logística;2013-02-26
+R21;Marcela Peñaloza;Supervisor de Planta;Comercial;2007-01-13
+R22;Camilo Barrios;Supervisor de Planta;Calidad;2017-06-09
+R23;Ana Maria Villareal;Auditor Interno;Comercial;2014-07-18
+R24;Oscar Mendoza;Supervisor de Planta;Logística;2024-08-20
