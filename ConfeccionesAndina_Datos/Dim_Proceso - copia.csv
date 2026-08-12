@@ -1,9 +1,0 @@
-Proceso_ID,Nombre_Proceso,Area,Nivel_Riesgo
-P01,Diseño y Desarrollo,Diseño,Medio
-P02,Compras y Proveedores,Abastecimiento,Alto
-P03,Corte,Producción,Medio
-P04,Confección,Producción,Alto
-P05,Producto No Conforme,Calidad,Alto
-P06,Empaque y Despacho,Logística,Medio
-P07,Servicio al Cliente,Comercial,Bajo
-P08,Talento Humano,Administrativo,Bajo
