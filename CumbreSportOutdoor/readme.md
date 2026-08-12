@@ -8,7 +8,9 @@ Ya cargado en `github.com/hmedrano1979/ITC/CumbreSportOutdoor` (carpeta propia, 
 | Archivo | Estado | Uso en el curso |
 |---|---|---|
 | `Ventas_CumbreSportOutdoor_Sucio.csv` | Sucio a propósito (2,045 filas, muestra real del rango completo 2005-2024) | Semanas 1-4 de clase (limpieza progresiva en Unidad 1); separador `;`, encoding `latin-1` |
+| `Ventas_CumbreSportOutdoor_Completo.csv` | Limpio, tabla de hechos completa (81,109 filas, 2005-2024, mismo archivo fuente `ventas-tienda-LATAM.xlsx` del Módulo 3 del Diplomado) | Unidad 2-3 (Semanas 7 en adelante) — dashboards reales de Power BI; separador `;` |
 | `Dim_Producto_Sucio.csv` | Sucio a propósito (160 filas) | Talleres 1.1 y 1.2 (aplicar en taller lo aprendido en clase, sobre una tabla no vista) |
+| `Dim_Producto.csv` | Limpio (mismo archivo del Diplomado) | Unidad 2-3 — dimensión producto para el modelo estrella |
 | `Dim_Pais.csv` | Limpio, sin cambios | Referencia / Unidad 2 (modelado de relaciones) |
 | `Dim_Vendedor.csv` | Limpio, sin cambios | Referencia / Unidad 2 |
 | `Dim_Canal.csv` | Limpio, sin cambios | Referencia / Unidad 2 |
